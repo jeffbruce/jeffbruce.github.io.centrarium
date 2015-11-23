@@ -1,7 +1,7 @@
 # External gems
-gems:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
+gems: [jekyll-archives, jekyll-sitemap, bourbon, neat, bitters, refills, font-awesome-less, highlight_js-rails, lightbox2-rails]
+#  - jekyll-archives # Sorry, not GitHub pages friendly!
+#  - jekyll-sitemap
 
 exclude:
   - "/vendor/"
