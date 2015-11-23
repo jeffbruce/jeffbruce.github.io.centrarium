@@ -7,17 +7,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Jeffrey Steven Bruce
+subtitle: "Ain't No Time For The Present"
+email: jeffbruce@gmail.com
+name: Jeff Bruce
 description: > 
-  A simple yet classy theme for your Jekyll website or blog.
+  Jeff Bruce's personal website.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+baseurl: "/jeffbruce" # the subpath of your site, e.g. /blog/
+url: "http://jeffbruce.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -37,7 +37,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: jeffbruce
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -51,46 +51,35 @@ descriptions:
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
 # Social icons and sharing options
-#
 # Social settings are used in two places:
 # * In the footer, as links to your personal profiles
 # * After each blog post for sharing widgets
-# 
-# Example:
-# 
-# social:
-#   - name: Twitter                         # Name of the service
-#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
-#     desc: Follow me on Twitter            # Description to display as link title, etc
-#     share: true                           # Include in the "Share" section of posts
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: jeffstevebruce
+    url: https://twitter.com/jeffstevebruce
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url: 
+    username: jeffstevebruce
+    url: https://www.facebook.com/jeffstevebruce
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: jeffbruce
+    url: https://github.com/jeffbruce
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Jeff Bruce
+    url: https://ca.linkedin.com/in/brucejeff
     desc: Connect with me on LinkedIn
     share: true
 
@@ -99,7 +88,7 @@ social:
     username: 
     url: 
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -120,14 +109,14 @@ social:
     username: 
     url: 
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
-    username: 
-    url: 
+    username: jeffstevebruce 
+    url: https://soundcloud.com/jeffstevebruce
     desc: Follow me on SoundCloud
-    share: false
+    share: true
 
   - name: Tumblr
     icon: tumblr
